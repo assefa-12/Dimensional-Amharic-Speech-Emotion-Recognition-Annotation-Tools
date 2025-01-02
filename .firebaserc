@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "amharic-4821e",
+    "happy-assie": "happy-assie",
+    "sad-emotion": "sad-emotion",
+    "neutral-emotion": "neutral-emotion",
+    "fear-emotion": "fear-emotion",
+    "amharic-4821e": "amharic-4821e"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
